@@ -1,5 +1,5 @@
-## Hi there 👋
- 你们好
+# Hello world
+你们好👋
 
 <!--
 **Jupiter-wood-water/Jupiter-wood-water** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
